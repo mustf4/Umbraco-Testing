@@ -1,0 +1,1 @@
+git clone https://farids-diligent-cow.scm.s1.umbraco.io/4e9bbf5e-4762-464c-83c1-96a8005d3719.git TestingUmbraco.Web
